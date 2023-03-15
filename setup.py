@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='podaacpy',
-    version='0.1',
+    name='podaac',
+    version='0.1.3',
     description='Shorten the distance between data and human.',
     author='PO.DAAC',
-    author_email='TBD',
+    author_email='podaac@podaac.jpl.nasa.gov',
     url='https://github.com/podaac/podaacpy',
-    packages=find_packages(),
+    packages=['podaac'],
     install_requires=[
         'numpy',
         'scipy',

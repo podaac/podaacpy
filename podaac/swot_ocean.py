@@ -14,12 +14,11 @@ class swot_ocean:
         
         Return
         ------
+        A list of all available SWOT-ocean related data products
         
         """
         
         return
-        
-        
         
         
     def find_L2_swath(self,concept_id,tstart,tend,bbox):
