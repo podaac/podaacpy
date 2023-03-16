@@ -1,4 +1,4 @@
-# podaacpy
+# podaac science-enabling routines
 A test podaacpy package that contains commonly used functions for search and access the PODAAC products. 
 
 ## Installation
