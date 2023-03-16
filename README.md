@@ -5,5 +5,5 @@ A test podaacpy package that contains commonly used functions for search and acc
 
 You can install the package using pip:
 
-   pip install podaacpy
+   pip install podaac
 
