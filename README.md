@@ -7,9 +7,9 @@ It is experimental.
 ## Installation
 
 You can install the package using pip:
-
+```
    pip install podaac
-
+```
 Try: 
 ```
    from podaac import utils
